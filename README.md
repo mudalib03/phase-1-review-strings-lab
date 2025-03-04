@@ -31,7 +31,7 @@ The first test is telling us that `currentUser` is not defined. Let's go to
 `index.js` and write the following code:
 
 ```js
-const currentUser = 'Grace Hopper';
+c
 ```
 
 > **Note**: Generally, when the tests ask you to define something, you want to
